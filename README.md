@@ -12,31 +12,17 @@ Feel free to connect with me and let me a message :grin: :coffee:
 ---
 
 #### Main Technologies & Tools
-[<img src="https://img.shields.io/badge/code-Flutter-blue.svg?style=flat-square&logo=flutter&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-Dart-blue.svg?style=flat-square&logo=dart&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-Swift-blue.svg?style=flat-square&logo=swift&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-Kotlin-blue.svg?style=flat-square&logo=kotlin&logoColor=white">](<LINK>)
+<img src="https://img.shields.io/badge/code-Flutter-blue.svg?style=flat-square&logo=flutter&logoColor=white"> <img src="https://img.shields.io/badge/code-Dart-blue.svg?style=flat-square&logo=dart&logoColor=white"> <img src="https://img.shields.io/badge/code-Swift-blue.svg?style=flat-square&logo=swift&logoColor=white"> <img src="https://img.shields.io/badge/code-Kotlin-blue.svg?style=flat-square&logo=kotlin&logoColor=white">
 
-[<img src="https://img.shields.io/badge/database-MySql-228B22.svg?style=flat-square&logo=mysql&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/database-PostgreSQL-228B22.svg?style=flat-square&logo=postgresql&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/database-MongoDB-228B22.svg?style=flat-square&logo=mongodb&logoColor=white">](<LINK>)
+<img src="https://img.shields.io/badge/database-MySql-228B22.svg?style=flat-square&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/database-PostgreSQL-228B22.svg?style=flat-square&logo=postgresql&logoColor=white"> <img src="https://img.shields.io/badge/database-MongoDB-228B22.svg?style=flat-square&logo=mongodb&logoColor=white">
 
-[<img src="https://img.shields.io/badge/ci/cd-Codemagic-CD5555.svg?style=flat-square&logo=codemagic&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/ci/cd-Fastlane-CD5555.svg?style=flat-square&logo=fastlane&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/ci/cd-Bitrise-CD5555.svg?style=flat-square&logo=bitrise&logoColor=white">](<LINK>)
+<img src="https://img.shields.io/badge/ci/cd-Codemagic-CD5555.svg?style=flat-square&logo=codemagic&logoColor=white"> <img src="https://img.shields.io/badge/ci/cd-Fastlane-CD5555.svg?style=flat-square&logo=fastlane&logoColor=white"> <img src="https://img.shields.io/badge/ci/cd-Bitrise-CD5555.svg?style=flat-square&logo=bitrise&logoColor=white">
 
-[<img src="https://img.shields.io/badge/tools-Firebase-7D26CD.svg?style=flat-square&logo=firebase&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/tools-Sentry-7D26CD.svg?style=flat-square&logo=sentry&logoColor=white">](<LINK>)
+<img src="https://img.shields.io/badge/tools-Firebase-7D26CD.svg?style=flat-square&logo=firebase&logoColor=white"> <img src="https://img.shields.io/badge/tools-Sentry-7D26CD.svg?style=flat-square&logo=sentry&logoColor=white">
 
 
 ##### Others ...
-[<img src="https://img.shields.io/badge/code-JavaScript-9C9C9C.svg?style=flat-square&logo=javascript&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-Xamarin-9C9C9C.svg?style=flat-square&logo=xamarin&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-Node.Js-9C9C9C.svg?style=flat-square&logo=nodedotjs&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-Angular-9C9C9C.svg?style=flat-square&logo=angular&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-CSharp-9C9C9C.svg?style=flat-square&logo=csharp&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-HTML-9C9C9C.svg?style=flat-square&logo=html5&logoColor=white">](<LINK>)
-[<img src="https://img.shields.io/badge/code-CSS-9C9C9C.svg?style=flat-square&logo=css3&logoColor=white">](<LINK>)
+<img src="https://img.shields.io/badge/code-JavaScript-9C9C9C.svg?style=flat-square&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/code-Xamarin-9C9C9C.svg?style=flat-square&logo=xamarin&logoColor=white"> <img src="https://img.shields.io/badge/code-Node.Js-9C9C9C.svg?style=flat-square&logo=nodedotjs&logoColor=white"> <img src="https://img.shields.io/badge/code-Angular-9C9C9C.svg?style=flat-square&logo=angular&logoColor=white"> <img src="https://img.shields.io/badge/code-CSharp-9C9C9C.svg?style=flat-square&logo=csharp&logoColor=white"> <img src="https://img.shields.io/badge/code-HTML-9C9C9C.svg?style=flat-square&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/code-CSS-9C9C9C.svg?style=flat-square&logo=css3&logoColor=white">
 
 
 
