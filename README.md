@@ -1,7 +1,7 @@
 ### Hey, I'm Renata Oliveira :brazil: :portugal:
 
 
-I'm Brazilian living in Lisbon, Portugal. Currently, I working as Expert Developer at [Adentis](https://www.adentis.fr/) focused in mobile development using Dart and Flutter.
+I'm Brazilian living in Lisbon, Portugal. Currently, I working as Senior Developer at [Adentis](https://www.adentis.pt/) focused in mobile development using Dart and Flutter.
 
 I'm gratuated in Science Computer, Technical IT and Project Management. Moreover, I'm certified in Scrum Master (CSM), Scrum Developer (CSD) and Advanced Scrum Developer (ACSD) by Scrum Alliance and Kanban Management Professional (KMP) by Kanban University.
 
